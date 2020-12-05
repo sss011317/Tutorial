@@ -1,0 +1,29 @@
+enter gitCMD
+
+if you wanna creat the prjoect 
+
+$mkdir "project name"
+
+into the project field
+
+$cd "project name"
+
+and working in git (enter the field path)
+
+$git init
+
+you can check your field it's in the staging area or not
+
+$git status 
+
+how join the staging area?
+
+$git add "doc name"  | $git add .  //you can move all of them
+
+onload github(repository)
+
+$git commit
+
+when you commit you can write down the version or remarks
+
+$git commit -m "require message"
